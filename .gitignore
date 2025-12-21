@@ -11,4 +11,5 @@ wheels/
 
 # Temp files
 game_state.jsonl
+.python-version
 
